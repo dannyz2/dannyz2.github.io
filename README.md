@@ -1,2 +1,2 @@
 # dannyz2.github.io
-Share Projects
+Share Projects with others.
